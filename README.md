@@ -1,16 +1,17 @@
 # repairapp
 
-A new Flutter project.
+#Flutter UI project.
 
-## Getting Started
+## About Project
 
-This project is a starting point for a Flutter application.
+This project is the UI of a repair application.
 
-A few resources to get you started if this is your first Flutter project:
+Basic concepts are used to create this UI such as:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Stateless widgets
+- Widgets
+- Custom fonts
+- Images
+- Navigation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is no functionality involved in this project.
